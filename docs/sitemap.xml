@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://pigeono.io/</loc>
-         <lastmod>2023-01-07</lastmod>
+         <lastmod>2023-01-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pigeono.io/security/</loc>
-         <lastmod>2023-01-07</lastmod>
+         <lastmod>2023-01-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pigeono.io/cli-callback/success/</loc>
-         <lastmod>2023-01-07</lastmod>
+         <lastmod>2023-01-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pigeono.io/documentation/quick-start/</loc>
-         <lastmod>2023-01-07</lastmod>
+         <lastmod>2023-01-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pigeono.io/documentation/configuration/authentication/</loc>
-         <lastmod>2023-01-07</lastmod>
+         <lastmod>2023-01-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pigeono.io/documentation/configuration/overview/</loc>
-         <lastmod>2023-01-07</lastmod>
+         <lastmod>2023-01-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pigeono.io/earlyaccess/</loc>
-         <lastmod>2023-01-07</lastmod>
+         <lastmod>2023-01-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pigeono.io/earlyaccess/signup/</loc>
-         <lastmod>2023-01-07</lastmod>
+         <lastmod>2023-01-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pigeono.io/roadmap/v1/</loc>
-         <lastmod>2023-01-07</lastmod>
+         <lastmod>2023-01-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pigeono.io/roadmap/v2/</loc>
-         <lastmod>2023-01-07</lastmod>
+         <lastmod>2023-01-08</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
